@@ -1,0 +1,2 @@
+Helpshift-Japanese-Localization
+===============================
